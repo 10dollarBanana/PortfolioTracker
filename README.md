@@ -26,10 +26,10 @@ I had been looking for a nice way to aggregate and track my crypto portfolios ov
 - Uphold
 
 #### Manually Adding Transactions
-Also supports manually adding buys, sells, trades/swaps, interest, and fees
+Supports manually adding buys, sells, trades/swaps, interest, and fees
 
 ### Exporting Transactions
-- Export detailed or summarized transaction histories
+Export detailed or summarized transaction histories
 
 ## How to:
 - Getting this to install should be pretty straightforward.
