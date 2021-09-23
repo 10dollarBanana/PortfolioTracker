@@ -45,9 +45,11 @@ Also supports manually adding buys, sells, trades, interest, and fees
 
 ## Want to support the project?
 
+Not expected, but certainly appreciated.
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/10dollarbanana)
 
-or consider donating some crypto:
+Or consider donating some crypto:
 
 ### Bitcoin: 
 <img width="292" alt="Bitcoin" src="https://user-images.githubusercontent.com/89819081/134095057-8dd9867f-0210-4889-bfb6-60040aa405cd.png">
