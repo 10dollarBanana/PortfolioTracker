@@ -40,6 +40,7 @@ Also supports manually adding buys, sells, trades, interest, and fees
 
 ## Things I'd like to add:
 - Abilty to sync wallets
+- More exchanges
 - Graphs
 
 ## Want to support the project?
