@@ -32,13 +32,16 @@ Supports manually adding buys, sells, trades/swaps, interest, and fees
 Export detailed or summarized transaction histories
 
 ## How to:
-- Getting this to install should be pretty straightforward.
-1. Download entire PortfolioTracker folder
+- Getting this to work should be pretty straightforward. Linux/macOS instructions below. (Windows should be similar)
+- Need to have python 3 installed: https://www.python.org/downloads/
+1. Download entire `PortfolioTracker` folder
 2. Open terminal
-3. Within the terminal, navigate to where you have everything stored and type: `python3 main.py`
-4. If you need to install a package you'll get an notification saying which package needs to be installed. To install type: `pip3 [package name]`
-5. You might need to restart the app after you add your first transaction.
-6. Updating the current prices is done in the File menu. 
+3. Within the terminal, navigate to where you have everything stored: `cd path/to/PortfolioTracker`
+4. Type the following: `mkdir summaries temp jsonUser` to create 3 folders with those names.
+5. Run the script: `python3 main.py`
+6. If you need to install a package you'll get an error saying which package needs to be installed. To install type: `pip3 [package name]`
+7. You might need to restart the app after you add your first transaction.
+8. Updating the current prices is done in the File menu. 
 
 ## Issues/Comments:
 - I'm sure this is pretty buggy as I only have access to my own transactions to troublshoot. If you sell or trade crypto I'd greatly appreciate knowing how those are coded for the various exchanges in their transaction histories. 
