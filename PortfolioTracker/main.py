@@ -811,7 +811,4 @@ with dpg.window(label="Update Transactions", id = "txnupdate", no_close=True):
 pass
 
 
-with dpg.window(label="Temporary Window"):
-    dpg.add_button(label="Save Ini File", callback=lambda: dpg.save_init_file("custom_layout.ini"))
-
 dpg.start_dearpygui()
