@@ -7,14 +7,16 @@ I had been looking for a nice way to aggregate and track my crypto portfolios ov
 
 ## Supports
 
-### APIs:
+### Importing Transactions
+
+#### APIs:
 - Binance.US
 - Celsius
 - Coinbase
 - Coinbase Pro
 - Gemini
 
-### Upload Transaction Summaries
+#### Upload Transaction Summaries
 - BlockFi
 - Coinbase Pro
 - Crypto.com
@@ -23,7 +25,7 @@ I had been looking for a nice way to aggregate and track my crypto portfolios ov
 - Ledn: Bitcoin
 - Uphold
 
-### Manually Adding Transactions
+#### Manually Adding Transactions
 Also supports manually adding buys, sells, trades/swaps, interest, and fees
 
 ### Exporting Transactions
