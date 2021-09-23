@@ -23,7 +23,7 @@ I had been looking for a nice way to aggregate and track my crypto portfolios ov
 ### Manual Adding Transactions
 Also supports manually adding buys, sells, trades, interest, and fees
 
-## Useage instructions:
+## How to:
 - Getting this to install should be pretty straightforward.
 1. Download entire PortfolioTracker folder
 2. Open terminal
