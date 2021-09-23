@@ -39,7 +39,7 @@ Also supports manually adding buys, sells, trades, interest, and fees
 - I'm sure this is pretty buggy as I only have access to my own transactions to troublshoot. If you sell or trade crypto I'd greatly appreciate knowing how those are coded for the various exchanges in their transaction histories. 
 
 ## Things I'd like to add:
-- Abilty to sync your wallet
+- Abilty to sync wallets
 - Graphs
 
 ## Want to support the project?
