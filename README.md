@@ -25,7 +25,7 @@ Also supports manually adding buys, sells, trades, interest, and fees
 
 ## Useage instructions:
 - Getting this to install should be pretty straightforward.
-1. Download entire CryptoTracker folder
+1. Download entire PortfolioTracker folder
 2. Open terminal
 3. Within the terminal, navigate to where you have everything stored and type: `python3 main.py`
 4. If you need to install a package you'll get an notification saying which package needs to be installed. To install type: `pip3 [package name]`
