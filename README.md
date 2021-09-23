@@ -2,7 +2,7 @@
 
 I had been looking for a nice way to aggregate and track my crypto portfolios over multiple sites, but everything I found I thought charged too much, didn't offer the metrics I was looking for, and I wasn't thrilled about the idea of putting my API keys into an app when I didn't know what was going on in the background. All written in python, I'm fairly new to this coding language so I'm sure there are a better ways of doing things. 
 
-## Supported Sites
+## Supports
 
 ### APIs:
 - Binance.US
@@ -20,7 +20,7 @@ I had been looking for a nice way to aggregate and track my crypto portfolios ov
 - Ledn: Bitcoin
 - Uphold
 
-### Manual Adding Transactions
+### Manually Adding Transactions
 Also supports manually adding buys, sells, trades, interest, and fees
 
 ## How to:
