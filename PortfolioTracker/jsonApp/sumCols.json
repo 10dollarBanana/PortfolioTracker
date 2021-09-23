@@ -1,0 +1,43 @@
+{
+    "available": {
+        "amount": "Amount",
+        "amt_interest": "Interest Earned",
+        "amt_sold": "Amount Sold",
+        "ath": "ATH($)",
+        "ath_date": "ATH Date",
+        "class": "Class",
+        "cost_basis": "Cost Basis($)",
+        "current_price": "Current Price($)",
+        "current_value": "Current Value($)",
+        "gl": "Gain/Loss($)",
+        "interest_value": "Interest Value($)",
+        "market_cap_rank": "Market Cap Rank",
+        "name": "Name",
+        "pct_gl": "Gain/Loss(%)",
+        "pct_invested": "Invested(%)",
+        "pct_portfolio": "Portfolio(%)",
+        "sell_profits": "Sell Profits($)",
+        "symbol": "Symbol",
+        "total_spent": "Total Spent($)"
+    },
+    "selected": {
+        "amount": "Amount",
+        "total_spent": "Total Spent($)",
+        "current_value": "Current Value($)",
+        "cost_basis": "Cost Basis($)",
+        "current_price": "Current Price($)",
+        "ath": "ATH($)",
+        "gl": "Gain/Loss($)",
+        "pct_gl": "Gain/Loss(%)"
+    },
+    "unselected": {
+        "amt_interest": "Interest Earned",
+        "pct_portfolio": "Portfolio(%)",
+        "sell_profits": "Sell Profits($)",
+        "amt_sold": "Amount Sold",
+        "pct_invested": "Invested(%)",
+        "market_cap_rank": "Market Cap Rank",
+        "interest_value": "Interest Value($)",
+        "ath_date": "ATH Date"
+    }
+}

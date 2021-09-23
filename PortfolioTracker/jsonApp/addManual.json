@@ -1,0 +1,6 @@
+{
+    "sites": ["Binance.US", "BlockFi", "Celsius", "Coinbase", "Coinbase Pro", "Crypto.com", "Gemini", "Kraken", "Ledn", "Uphold", "Other"],
+    "summaries": ["Binance.US", "BlockFi", "Celsius", "Coinbase", "Coinbase Pro", "Crypto.com", "Gemini", "Gemini Earn", "Ledn BTC", "Manual", "Uphold"],
+    "Sending Fee": "FEE_SEND",
+    "Other": "FEE_OTHER"
+}
