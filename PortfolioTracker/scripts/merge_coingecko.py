@@ -34,21 +34,21 @@ def top500():
     # To dictionary
     df = df.to_dict(orient='index')
     # Check if json file exists
-    if os.path.isfile("jsonUser/top500.json") == True:
-        with open('jsonUser/top500.json') as json_file:
+    if os.path.isfile("jsonApp/top500.json") == True:
+        with open('jsonApp/top500.json') as json_file:
             data = json.load(json_file)
             data.update(df)
-        with open('jsonUser/top500.json', 'w') as outfile:
+        with open('jsonApp/top500.json', 'w') as outfile:
             json.dump(data, outfile, indent=4)
     else:     
-        with open('jsonUser/top500.json', 'w') as outfile:
+        with open('jsonApp/top500.json', 'w') as outfile:
             json.dump(df, outfile, indent=4)
 
 
 def coinData():
     with open('jsonUser/txnSummary.json') as json_file:
         txnData = json.load(json_file)
-    with open('jsonUser/top500.json') as json_file:
+    with open('jsonApp/top500.json') as json_file:
         coinInfo = json.load(json_file)
     # Turn into tables
     txnData = pd.DataFrame.from_dict(txnData, orient='index')
