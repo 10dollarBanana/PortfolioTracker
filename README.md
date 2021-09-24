@@ -48,6 +48,7 @@ Export detailed or summarized transaction histories
 - I'm sure this is pretty buggy as I only have access to my own transactions to troublshoot. If you sell or trade crypto I'd greatly appreciate knowing how those are coded for the various exchanges in their transaction histories. 
 
 ## Things I'd like to add:
+- Support for currencies other than USD
 - Abilty to sync wallets
 - More exchanges
 - Graphs
