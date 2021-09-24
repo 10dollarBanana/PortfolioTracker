@@ -1,5 +1,7 @@
 # PortfolioTracker
 
+v0.1-beta
+
 I had been looking for a nice way to aggregate and track my crypto portfolios over multiple sites, but everything I found I thought charged too much, didn't offer the metrics I was looking for, and I wasn't thrilled about the idea of putting data into what is essentially a black box.  I'm fairly new to python so I'm sure there are a better ways of doing things. 
 
 <img width="1503" alt="Screen Shot 2021-09-24 at 8 51 05 AM" src="https://user-images.githubusercontent.com/89819081/134685696-d2162887-9a5f-467b-9975-dde0281d941b.png">
